@@ -34,4 +34,3 @@ class GameRound:
 
     def awardPoints(self):
         print("implement")
-
